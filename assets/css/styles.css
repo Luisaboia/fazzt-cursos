@@ -183,7 +183,7 @@ footer .fab, .fas{
   }
 }
 
-@media (max-width: 1028px) {
+@media (max-width: 1100px) {
   #title{
     text-align: center;
   }
